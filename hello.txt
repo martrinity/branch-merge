@@ -1,1 +1,1 @@
-Este es el texto del primer archivo, llamado hello punto text
+Esta es la segunda linea agregada al archivo hello.txt desde el master
