@@ -1,1 +1,1 @@
-Esta es la segunda linea agregada al archivo hello.txt desde el master
+Este es el primer texto del archivo hello.txt
